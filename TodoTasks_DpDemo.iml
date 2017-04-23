@@ -14,7 +14,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../client/target/core-0.0.2-SNAPSHOT-jar-with-dependencies.jar!/" />
+          <root url="jar://$MODULE_DIR$/../client/target/core-0.0.3-SNAPSHOT-jar-with-dependencies.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
